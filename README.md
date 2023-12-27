@@ -21,7 +21,7 @@ Users should be able to:
 
 - See hover states for interactive elements
 
-### Screenshot
+### Screenshots
 
 ![](./screenshots/order-summary-card-mobile.png)
 ![](./screenshots/order-summary-card-desktop.png)
@@ -33,7 +33,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mobile-first workflow
 
 ## Author
 
