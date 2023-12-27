@@ -23,7 +23,6 @@ Users should be able to:
 
 ### Screenshots
 
-![](./screenshots/order-summary-card-mobile.png)
 ![](./screenshots/order-summary-card-desktop.png)
 
 ## My process
